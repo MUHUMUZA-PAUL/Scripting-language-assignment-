@@ -9,7 +9,7 @@ function calculateAge($dob) {
 
 // Provided values for input
 $name = "MUHUMUZA PAUL ";
-$dob = "23-11-2000";  DD-MM-YYYY
+$dob = "23-11-2000"; //date format DD-MM-YYYY
 $address = "RUKUNGIRI,RUHINDA";
 
 // Determine the age.
